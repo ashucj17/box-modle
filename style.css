@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 450px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: #000000;
+  padding: 30px;
+  border-radius: 30px;
+}
+.card {
+  background-color: #1a1925;
+  padding: 30px;
+  border-radius: 16px;
+  color: #fff;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+p {
+  columns: #76768d;
+}
+img {
+  width: 100%;
+}
+input {
+  box-sizing: border-box;
+
+  width: 100%;
+  padding: 8px;
+  border: 5px solid#9F75FE;
+  background-color: #1a1925;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.btn {
+  margin-top: 10px;
+  width: 100%;
+  padding: 8px;
+  border: 5px solid#9F75FE;
+  font-size: 16px;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #9f75fe;
+}
